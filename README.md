@@ -36,7 +36,7 @@ Tools Used
 How to Run
 
 Open the notebook using Jupyter or VS Code. Make sure your CSV files are inside the `data/` folder.
-
+Note: This was my first attempt at building a momentum strategy using real data. It contains early mistakes, and has been left public for learning transparency.
 ---
 
 **Author**: Safwan Khan (MS in Quant Finance @ Northeastern University)
