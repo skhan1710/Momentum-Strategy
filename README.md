@@ -18,7 +18,7 @@ This project explores a momentum-based strategy using monthly industry return da
 - **Worst-Case CAGR (25th percentile)**: 13.44%  
 - **Sharpe Ratio**: 0.84  
 - **Worst-Case Sharpe (25th percentile)**: 0.71  
-- **vs Benchmarks**: 50% higher returns than equal-weighting all industries (11.53%), 10x market portfolio (1.55%)  
+- **Benchmarks**: 50% higher returns than equal-weighting all industries (11.53%), 10x market portfolio (1.55%)  
 
 ## Files Included
 
