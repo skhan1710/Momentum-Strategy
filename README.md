@@ -1,24 +1,24 @@
-# Momentum-Based Strategy – Long-Short Portfolio (College Project)
+# Momentum-Based Strategy – Industry Portfolio (College Project)
 
-This project explores a momentum-based strategy using monthly industry return data. It selects top-performing industries based on trailing 12-month returns and compares equal vs inverse-volatility weights
+This project explores a momentum-based strategy using monthly industry return data. It selects top-performing industries based on trailing 12-month returns and compares equal-weighting vs inverse-volatility weighting schemes.
 
 ## Key Features
 
 - **Data**: Fama-French 49 industry returns  
-- **Ranking**: Based on cumulative 12-month returns  
+- **Ranking**: Based on cumulative 12-month momentum returns  
 - **Portfolio**:  
-  - Top 5 industries by momentum 
-  - Equal-weighted (20% each) vs Inverse-volatility weighted 
+  - Top 5 industries by momentum  
+  - Equal-weighted (20% each) vs Inverse-volatility weighted  
 - **Rebalancing**: Monthly  
-- **Backtest Period**: 1929–2023  
+- **Backtest Period**: 1931–2023  
 
 ## Performance Summary
 
-- **CAGR**: 18.43%
-- **Worst-Case CAGR (25th percentile)**: 12.96%  
-- **Sharpe Ratio**: 0.68 
-- **Worst-Case Sharpe (25th percentile)**: 0.49 
-- **Leveraged Version (130% long) CAGR**: ~20% 
+- **CAGR**: 17.40%  
+- **Worst-Case CAGR (25th percentile)**: 13.44%  
+- **Sharpe Ratio**: 0.84  
+- **Worst-Case Sharpe (25th percentile)**: 0.71  
+- **vs Benchmarks**: 50% higher returns than equal-weighting all industries (11.53%), 10x market portfolio (1.55%)  
 
 ## Files Included
 
