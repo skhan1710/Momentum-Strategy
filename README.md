@@ -1,4 +1,4 @@
-# Momentum-Based Strategy – Industry Portfolio (College Project)
+# Momentum-Based Strategy – Industry Portfolio
 
 This project explores a momentum-based strategy using monthly industry return data. It selects top-performing industries based on trailing 12-month returns and compares equal-weighting vs inverse-volatility weighting schemes.
 
@@ -36,8 +36,6 @@ This project explores a momentum-based strategy using monthly industry return da
 
 Open the notebook using **Jupyter Notebook** or **VS Code**.  
 Ensure that the CSV files are located in the `data/` folder.  
-
-Note: *This was my first attempt at implementing a momentum strategy using real data. It contains early mistakes and has been kept public for transparency and learning purposes.*
 
 ---
 
